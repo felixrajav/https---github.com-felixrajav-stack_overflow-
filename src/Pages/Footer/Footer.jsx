@@ -11,7 +11,7 @@ const Footer = () => {
             <div className="socials">
                 <div className="social-item">
                     <a
-                        href=''
+                        href='https://github.com/felixrajav/https---github.com-felixrajav-stack_overflow-'
                         target='_blank'
                         rel="noreferrer"
                     >
@@ -21,7 +21,7 @@ const Footer = () => {
                 </div>
                 <div className="social-item">
                     <a
-                        href=''
+                        href='https://github.com/felixrajav/stack_overflow-clone--server'
                         target='_blank'
                         rel="noreferrer"
                     >
